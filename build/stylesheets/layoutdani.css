@@ -1,0 +1,59 @@
+.head{
+  height: 60px;
+  padding: 15px;
+}
+
+.project{
+  font-size: 140%;
+  color: #848484;
+}
+
+.home{
+  background-color: #1585cf;
+  color: #fefefe;
+}
+
+.menu{
+  color: #2199e8;
+}
+
+.imagen {
+  background-color: #E5E5E5;
+  height: 450px;
+  margin-top: 40px;
+}
+
+.textimage{
+font-size: 50px;
+padding-top: 60px;
+color: #ABABAB;
+text-align: center;
+}
+
+.textcenter{
+  color: #0a0a0a;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.title{
+  font-size: 200%;
+}
+
+.boton{
+  background-color: #5BAB49;
+  font-size: 20px;
+}
+
+
+.leter {
+  color: #848484;
+}
+
+
+.footer{
+font-size: 20px;
+color: #ABABAB;
+}
